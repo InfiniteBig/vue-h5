@@ -1,0 +1,116 @@
+.com-popup {
+  .van-popup {
+    height: 90%;
+    width: 100%;
+    border-radius: 18px 18px 0 0;
+    background-color: #fff !important;
+  }
+
+  .van-overlay {
+    opacity: .75 !important;
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  .s-tag {
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 35px;
+    background-color: #fff;
+    font-weight: 600;
+    color: #373525;
+  }
+}
+
+// 所有评论弹框
+.all-comment {
+  .van-popup {
+    width: calc(100% - 32px) !important;
+    height: calc(90% - 50px);
+    padding: 0 16px 50px;
+  }
+
+}
+
+// 人气评论弹框
+.popular-comment {
+  .van-popup {
+    width: calc(100% - 32px) !important;
+    padding: 0 16px;
+  }
+}
+
+// 回复弹框
+.replay-comment {
+  .van-popup {
+    height: calc(90% - 50px);
+  }
+
+  .floor {
+    padding: 15px 16px 0 16px;
+    border-bottom: 5px solid #eee;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 27px;
+
+    .l {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+
+      .nick-name {
+        margin-left: 8px;
+      }
+    }
+
+    .avatar-container {
+      width: 27px;
+      height: 27px;
+      border-radius: 14px;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    .r {
+      font-family: Roboto;
+      font-size: 13px;
+      color: #ef9325;
+
+      .svg-icon {
+        font-size: 20px;
+      }
+
+      &.grey {
+        color: #373525;
+      }
+    }
+
+    .replay-list {
+      padding: 0 16px;
+    }
+  }
+
+  .content {
+    padding: 5px 0 15px 33px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #373525;
+
+    .time {
+      font-size: 10px;
+      color: #bbbbbb;
+    }
+  }
+
+  .replay-list {
+    padding: 10px 16px;
+  }
+}

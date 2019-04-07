@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>30CFEFE4-F1AC-4E3E-B9E5-F7C946845590</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE463" offset="0%"></stop>
+            <stop stop-color="#FEC62E" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="13" height="13" rx="2"></rect>
+    </defs>
+    <g id="02-种草-🌱" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02.12_种草_详情页_滚到评论区" transform="translate(-130.000000, -521.000000)">
+            <g id="User-and-location" transform="translate(16.000000, 518.000000)">
+                <g id="Info" transform="translate(40.000000, 3.000000)">
+                    <g id="特权" transform="translate(74.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <text id="2" mask="url(#mask-3)" font-family="Roboto-Black, Roboto" font-size="6" font-weight="700" line-spacing="6" fill="#FFFFFF">
+                            <tspan x="8.5" y="12">2</tspan>
+                        </text>
+                        <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)" points="12 2.5 7 2.5 8 3.5 4.5 7.5 4.5 2 2 2 2 3.05937003 3 3.05937003 3 11.5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

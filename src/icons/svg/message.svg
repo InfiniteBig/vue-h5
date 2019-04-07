@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>1597A710-8518-4673-84CF-C8D579EE8D82</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-Icon/Tabbar/评论/未选中">
+            <rect id="24" x="-1.13686838e-13" y="0" width="24" height="24"></rect>
+            <circle id="Oval" fill="#373525" cx="9.25" cy="10.75" r="1.25"></circle>
+            <circle id="Oval" fill="#373525" cx="16.25" cy="10.75" r="1.25"></circle>
+            <path d="M7.5,3.5 L16.5,3.5 C19.2614237,3.5 21.5,5.73857625 21.5,8.5 L21.5,13.5 C21.5,16.2614237 19.2614237,18.5 16.5,18.5 L16.5,21.6849003 C16.5,21.9610427 16.2761424,22.1849003 16,22.1849003 C15.8571811,22.1849003 15.7211791,22.1238264 15.6262953,22.0170823 L12.5,18.5 L7.5,18.5 C4.73857625,18.5 2.5,16.2614237 2.5,13.5 L2.5,8.5 C2.5,5.73857625 4.73857625,3.5 7.5,3.5 Z" id="Path-19" stroke="#373525" stroke-width="1.5" transform="translate(12.000000, 12.842450) scale(-1, 1) translate(-12.000000, -12.842450) "></path>
+        </g>
+    </g>
+</svg>
